@@ -1,9 +1,7 @@
 ## Interpolação de cores - RGB
 
-**aplicação para a visualização de cores a partir da escala RGB. Utilizando HTML, CSS e JavaScript puro.**
 
-![]()
-
+###aplicação para a visualização de cores a partir da escala RGB. Utilizando HTML, CSS e JavaScript puro. 
 
 
 ### Objetivos:
