@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(2, 0, 0);
+  font-family: cursive;
+  padding: 15px;
+  border: 2px solid rgb(80, 4, 14);
+}
+h1 {
+  margin-bottom: 40px;
+  text-shadow: 1px 1px 1px rgb(121, 7, 7);
+}
+
+.square {
+  border-radius: 50px;
+  width: 900px;
+  max-height: 800px;
+  padding: 30px;
+  margin: 0 200px 0 190px;
+  box-shadow: 9px 9px 9px 5px rgb(117, 115, 115);
+  position: relative;
+}
+
+.meio {
+  border-radius: 50px;
+
+  width: 650px;
+  height: 300px;
+  padding: 10px;
+  margin: auto;
+
+  box-shadow: 9px 9px 9px 5px rgb(117, 115, 115);
+}
+.center {
+  border: 0px solid red;
+  border-radius: 50px;
+  background-color: rgb(245, 245, 220);
+  width: 500px;
+  height: 180px;
+  padding: 50px;
+  margin: auto;
+  box-shadow: 7px 7px 7px 4px rgb(117, 115, 115);
+}
+
+.segundo {
+  border-radius: 30px;
+  padding: 60px;
+
+  width: 700px;
+  height: 320px;
+  margin: auto;
+
+  box-shadow: 8px 8px 8px 5px rgb(117, 115, 115);
+}
+
+.flex-row {
+  margin: 15px 15px 15px 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.label {
+  min-width: 130px;
+}
+
+.range {
+  min-width: 200px;
+}
+
+.text {
+  margin-left: 10px;
+  width: 50px;
+}
+
+.name {
+  text-align: center;
+  padding: 0.01px;
+  margin: auto;
+  background-color: aqua;
+  text-shadow: -1px -1px white, 1px 1px white;
+}
